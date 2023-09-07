@@ -8460,3 +8460,6 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+.main-logo {
+    max-width: 150px;
+}
