@@ -4,6 +4,7 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
  @font-face {
     font-family: 'Roca Two';
     src: url('../../assets/fonts/roca-two-regular.woff2') format('woff2'), 
@@ -8492,4 +8493,15 @@ html {
     align-self: stretch !important; } }
 .main-logo {
     max-width: 150px;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+@media (max-width: 768px) {
+    .footer-box {
+        width: 100%;
+        margin: 5px 0;
+    }
 }
