@@ -29,16 +29,12 @@ authors:
  
 # Defaults
 defaults:
-
-  # all posts
   - scope:
       path: "_posts"
     values:
       layout: post
       author: a4eorg
       avatar: /assets/images/avatar-a4eorg.png
-      
-  # all pages
   - scope:
       path: "_pages"
     values:
