@@ -3270,7 +3270,7 @@ input[type="button"].btn-block {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding: 0.3rem 1rem; }
+  padding: 5% 8%; }
   .navbar > .container,
   .navbar > .container-fluid {
     display: flex;
@@ -8429,7 +8429,7 @@ html {
   .align-self-xl-stretch {
     align-self: stretch !important; } }
 .main-logo {
-    max-width: 150px;
+    max-width: 125px;
 }
 .footer-container {
     display: flex;
