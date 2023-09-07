@@ -3271,7 +3271,7 @@ input[type="button"].btn-block {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding: 5% 8%; }
+  padding: 3% 8%; }
   .navbar > .container,
   .navbar > .container-fluid {
     display: flex;
