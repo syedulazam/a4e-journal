@@ -8438,10 +8438,13 @@ html {
 }
 @media (max-width: 768px) {
     .footer-box {
+        align-items: center;
+        text-align: center;
         width: 100%;
         margin: 5px 0;
     }
 }
 .footer-links a {
+    font-size: 18px;
     padding: 0 5px;
 }
