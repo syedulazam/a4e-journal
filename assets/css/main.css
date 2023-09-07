@@ -3265,12 +3265,13 @@ input[type="button"].btn-block {
   display: block; }
 
 .navbar {
+  color: #00000000 !important;
   position: relative;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  margin: 5% 8%; }
+  padding: 5% 8%; }
   .navbar > .container,
   .navbar > .container-fluid {
     display: flex;
@@ -8447,4 +8448,7 @@ html {
 .footer-links a {
     font-size: 18px;
     padding: 0 5px;
+}
+#MagicMenu .container {
+    padding: 0 !important;
 }
