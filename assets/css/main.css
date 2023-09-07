@@ -491,23 +491,11 @@ pre {
 
 .container {
   width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 8%;
+  padding-left: 8%;
   margin-right: auto;
-  margin-left: auto; }
-  @media (min-width: 576px) {
-    .container {
-      max-width: 540px; } }
-  @media (min-width: 768px) {
-    .container {
-      max-width: 720px; } }
-  @media (min-width: 992px) {
-    .container {
-      max-width: 960px; } }
-  @media (min-width: 1200px) {
-    .container {
-      max-width: 1140px; } }
-
+  margin-left: auto;
+}
 .container-fluid {
   width: 100%;
   padding-right: 15px;
@@ -7390,34 +7378,22 @@ html {
 
 .container {
   width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 8%;
+  padding-left: 8%;
   margin-right: auto;
-  margin-left: auto; }
-  @media (min-width: 576px) {
-    .container {
-      max-width: 540px; } }
-  @media (min-width: 768px) {
-    .container {
-      max-width: 720px; } }
-  @media (min-width: 992px) {
-    .container {
-      max-width: 960px; } }
-  @media (min-width: 1200px) {
-    .container {
-      max-width: 1070px; } }
+  margin-left: auto;
+}
 .container-lg {
-    max-width:1140px;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 8%;
+    padding-left: 8%;
     margin-right: auto;
     margin-left: auto;
 }
 
 .container-fluid {
   width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 8%;
+  padding-left: 8%;
   margin-right: auto;
   margin-left: auto; }
 
