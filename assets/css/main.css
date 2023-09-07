@@ -4,6 +4,36 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+ @font-face {
+    font-family: 'Roca Two';
+    src: url('../../assets/fonts/roca-two-regular.woff2') format('woff2'), 
+         url('../../assets/fonts/roca-two-regular.woff') format('woff'), 
+         url('../../assets/fonts/roca-two-regular.ttf') format('truetype'), 
+         url('../../assets/fonts/roca-two-regular.otf') format('opentype'), 
+         url('../../assets/fonts/roca-two-regular.eot') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF Display Pro';
+    src: url('../../assets/fonts/sf-pro-display.woff2') format('woff2'), 
+         url('../../assets/fonts/sf-pro-display.woff') format('woff'), 
+         url('../../assets/fonts/sf-pro-display.ttf') format('truetype'), 
+         url('../../assets/fonts/sf-pro-display.otf') format('opentype'), 
+         url('../../assets/fonts/sf-pro-display.eot') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body {
+    font-family: 'SF Display Pro', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roca Two', sans-serif !important;
+}
+
 :root {
   --blue: #7832e2;
   --indigo: #502c6c;
