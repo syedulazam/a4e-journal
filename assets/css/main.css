@@ -8442,3 +8442,6 @@ html {
         margin: 5px 0;
     }
 }
+.footer-links a {
+    padding: 0 5px;
+}
