@@ -27,10 +27,10 @@ a,a:hover {
     text-decoration:none;
 }
 a {
-    color:#03a87c;
+    color:#B45E34;
 }
 a.text-dark:hover {
-    color:#03a87c !important;
+    color:#B45E34 !important;
 }
 .c-pointer:hover {
     cursor:pointer;
@@ -108,7 +108,7 @@ a.text-dark:hover {
     box-shadow:none;
 }
 .btn-link.btn-primary {
-    color:#03a87c;
+    color:#B45E34;
     border-color:transparent;
 }
 .btn-link.btn-secondary {
@@ -116,7 +116,7 @@ a.text-dark:hover {
     border-color:transparent;
 }
 .btn-link.btn-success {
-    color:#03a87c;
+    color:#B45E34;
     border-color:transparent;
 }
 .btn-link.btn-info {
@@ -188,14 +188,14 @@ a.text-dark:hover {
     font-weight:400;
 }
 .navbar .highlight .nav-link {
-    color:#03a87c !important;
-    border:1px solid #03a87c;
+    color:#B45E34 !important;
+    border:1px solid #B45E34;
     padding:0.3rem 1rem;
     border-radius:3px;
     font-size:.93rem;
 }
 .navbar .highlight .nav-link:hover {
-    background:#03a87c;
+    background:#B45E34;
     color:#f8f8f8 !important;
 }
 .navbar-brand {
@@ -330,13 +330,13 @@ a.text-dark:hover {
     background-color:rgba(23,29,90,0.5);
 }
 .bg-primary {
-    fill:#03a87c !important;
+    fill:#B45E34 !important;
 }
 .bg-secondary {
     fill:#7832e2 !important;
 }
 .bg-success {
-    fill:#03a87c !important;
+    fill:#B45E34 !important;
 }
 .bg-info {
     fill:#09ebaf !important;
@@ -403,7 +403,7 @@ a.text-dark:hover {
 }
 .card a:hover {
     text-decoration:none;
-    color:#03a87c;
+    color:#B45E34;
 }
 .card-pricing .card ul li {
     margin-bottom:1.5rem;
@@ -433,8 +433,8 @@ a.text-dark:hover {
 }
 .alert-primary {
     color:#f8f8f8;
-    background-color:#03a87c;
-    border-color:#03a87c;
+    background-color:#B45E34;
+    border-color:#B45E34;
 }
 .alert-primary hr {
     border-top-color:#038f6a;
@@ -455,8 +455,8 @@ a.text-dark:hover {
 }
 .alert-success {
     color:#f8f8f8;
-    background-color:#03a87c;
-    border-color:#03a87c;
+    background-color:#B45E34;
+    border-color:#B45E34;
 }
 .alert-success hr {
     border-top-color:#038f6a;
