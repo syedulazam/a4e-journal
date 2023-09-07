@@ -22,7 +22,7 @@ authors:
     a4eorg:
       name:           A4Eorg
       site:           https://a4e.org.in
-      avatar:         /assets/images/avatar-a4eorg.png
+      avatar:         'https://journal.a4e.org.in/assets/images/avatar-a4eorg.png'
       bio:            "Access for Everyone is a global initiative dedicated to creating a more accessible and inclusive society."
       email:          info@a4e.org.in
       twitter:        https://twitter.com/a4eorg
