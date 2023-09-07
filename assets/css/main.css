@@ -3309,6 +3309,7 @@ input[type="button"].btn-block {
   padding-bottom: 0.8rem; }
 
 .navbar-collapse {
+  color: f8f8f8;
   flex-basis: 100%;
   flex-grow: 1;
   align-items: center; }
