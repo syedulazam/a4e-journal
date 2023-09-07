@@ -1,6 +1,6 @@
 # Site
 name: 'The A4E Journal'
-description: 'Discover The A4E Journal, your go-to source for in-depth insights, disability news, and best practices in accessibility. Our mission is to champion inclusivity, making 'Access for Everyone' more than just a name.'
+description: "Discover The A4E Journal, your go-to source for in-depth insights, disability news, and best practices in accessibility. Our mission is to champion inclusivity, making 'Access for Everyone' more than just a name."
 logo: 'assets/images/black-logo@2x.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
