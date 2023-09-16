@@ -3260,7 +3260,7 @@ input[type="button"].btn-block {
   display: block; }
 
 .navbar {
-  color: #00000000 !important;
+  color: #f1f1f1 !important;
   position: relative;
   display: flex;
   flex-wrap: wrap;
