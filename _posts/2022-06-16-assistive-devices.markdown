@@ -30,7 +30,7 @@ There is a wide array of assisted technology available today owing to an increas
 Assistive technology plays a very important role in improving the quality of life for individuals with disabilities. It enables them to stay connected and interact with others while increasing independence and decreasing the need for support.
 
 ## Global Cooperation on Assistive Technology
-The World Health Organization is currently coordinating with the Global Cooperation on Assistive Technology whose vision is “A world where assistive technology is universally accessible to everyone, everywhere.” This partnership aims to increase accessibility to assistive devices globally while maintaining their quality and offering them at a more affordable pricing to the users.
+The World Health Organization is currently coordinating with the Global Cooperation on Assistive Technology whose vision is "A world where assistive technology is universally accessible to everyone, everywhere." This partnership aims to increase accessibility to assistive devices globally while maintaining their quality and offering them at a more affordable pricing to the users.
 
 ## Wrapping Up
 As we progress into an era defined by technological advancements, it's imperative to ensure that these developments cater to everyone, creating an inclusive environment. Assistive devices are more than just tools; they're a testament to human ingenuity, compassion, and the relentless spirit of inclusivity.

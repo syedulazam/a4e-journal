@@ -15,18 +15,18 @@ Being constantly treated as inferior triggers feelings of being unworthy of love
 Internalized ableism can be felt in many ways
 - Feeling like a burden.
 - Feeling undesirable. 
-- Feeling like you don’t “fit in.”
-- Feeling like you’re “imagining” an illness, even though you know you’re not.
+- Feeling like you don’t "fit in."
+- Feeling like you’re "imagining" an illness, even though you know you’re not.
 - Internalizing the inappropriate things people constantly say.
 - Internalizing other people’s reactions.
-- Feeling like you don’t “deserve” accommodations. 
+- Feeling like you don’t "deserve" accommodations. 
 - Having low expectations of yourself.
-- Feeling like you have to “prove” you’re disabled. 
+- Feeling like you have to "prove" you’re disabled. 
 
 ## How does it play out?
 - Sacrificing one's rights and not speaking up
 - Projecting ableist views onto your disabled peers
-- Thinking you need to be “fixed” or craving a nondisabled body or lifestyle.
+- Thinking you need to be "fixed" or craving a nondisabled body or lifestyle.
 - Appeasing non-disabled people at the cost of your individuality or safety.
 - Self-hatred
 - Lowering one’s standards

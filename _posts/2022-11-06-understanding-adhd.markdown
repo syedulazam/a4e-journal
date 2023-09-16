@@ -28,7 +28,7 @@ ADHD is not a learning disability. A learning disability makes it difficult to a
 ADHD is not considered to be a learning disability. It can be determined as a disability under the Individuals with Disabilities Education Act (IDEA). Most children who have ADHD tend to receive some school services, such as accommodation and special education services.
 
 ## Gender Biases in ADHD Diagnosis
-ADHD is diagnosed three times more often in boys. ADHD in women is often seen as character traits and hence research suggests that girls may be under-diagnosed. The Journal of Consulting and Clinical Psychology (Vol. 70, No. 5) says "Most of the few prior studies have focused on comparing girls to boys - using boys' ADHD symptoms as the marker against which girls should be measured.”
+ADHD is diagnosed three times more often in boys. ADHD in women is often seen as character traits and hence research suggests that girls may be under-diagnosed. The Journal of Consulting and Clinical Psychology (Vol. 70, No. 5) says "Most of the few prior studies have focused on comparing girls to boys - using boys' ADHD symptoms as the marker against which girls should be measured."
 
 While it is important to consider the impact of sex differences on ADHD presentation and experience, it is also pivotal that we begin to question the role that gender-based biases and expectations might colour our perception of the strengths and challenges inherent in this condition. Even today, the field is lacking meaningful research on people’s experiences with ADHD who do not identify as cis-gender. Historically, the research for ADHD focused exclusively on little boys and not adults or women. Girls with undiagnosed ADHD are at high risk for chronically low self-esteem, anxiety, and more.
 
