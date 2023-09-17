@@ -3260,7 +3260,6 @@ input[type="button"].btn-block {
   display: block; }
 
 .navbar {
-  color: #f1f1f1 !important;
   position: relative;
   display: flex;
   flex-wrap: wrap;
@@ -8444,6 +8443,9 @@ html {
 .footer-links a {
     font-size: 18px;
     padding: 0 5px;
+}
+#MagicMenu {
+    background-color: #f8f8f8;
 }
 #MagicMenu .container {
     padding: 0 !important;
