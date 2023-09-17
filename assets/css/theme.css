@@ -40,12 +40,12 @@ a.text-dark:hover {
 }
 @media (max-width:991.98px) {
     .display-3 {
-        font-size:3.5rem;
+        font-size:3.25rem;
     }
 }
 @media (max-width:767.98px) {
     .display-3 {
-        font-size:2rem;
+        font-size:1.75rem;
     }
 }
 .row.gap-y>.col,.row.gap-y>[class*="col-"] {
@@ -714,12 +714,12 @@ article h1,article h2,article h3,article h4,article h5,article h6,article .h1,ar
 }
 @media (max-width:1199.98px) {
     .display-4 {
-        font-size:35px;
+        font-size:30px;
     }
 }
 @media (max-width:991.98px) {
     .display-4 {
-        font-size:25px;
+        font-size:20px;
     }
     .alertbar {
         display: none !important;
