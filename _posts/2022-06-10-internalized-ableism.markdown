@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Confronting Internalized Ableism"
-author: a4eorg
+author: Tanvi Kalsi
 categories: [ Advocacy, Disability Pride, Self-Care, Mental Health, Community ]
 image: assets/images/2022-06-10-internalized-ableism.webp
 tags: [internalized ableism, prejudices, society, mental health, self-worth, negative image, empowerment, accommodations, acceptance, disability rights]
