@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unmasking the Intersectionality: Disability and Pride"
-author: a4eorg
+author: Alicia Prax
 categories: [ Pride, Inclusion, Diversity, Rights, Advocacy ]
 image: assets/images/2021-07-02-intersectionality-of-disability-and-pride.webp
 tags: [featured, intersectionality, disability, marginalization, mental health, accessibility, stigma, bullying, harassment, coming out]
