@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding ADHD: A Guide"
-author: a4eorg
+author: Tanvi Kalsi
 categories: [ Health, Awareness, Diversity, Inclusion ]
 image: assets/images/2022-11-06-understanding-adhd.webp
 tags: [featured, adhd, neurological disorder, inattentiveness, hyperactivity, impulsiveness, learning disability, gender biases, social challenges, executive functions, diagnosis]
