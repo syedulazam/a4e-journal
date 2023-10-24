@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Helen Keller: Beyond The Known Narrative"
-author: a4eorg
+author: Alicia Prax and Mallvika Baheti
 categories: [ History, Inclusion, Rights, Advocacy, Race ]
 image: assets/images/2021-06-07-helen-keller.webp
 tags: [sticky, helen keller, deafblind, suffragist, socialism, women's rights, eugenics, white privilege, disability rights, geraldine lawhorn, american history]
