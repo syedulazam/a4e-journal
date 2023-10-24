@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Busting Myths about Dating and Disability"
-author: a4eorg
+author: Alicia Prax
 categories: [ Relationships, Disability, Pride, Rights, Advocacy, Self-Care ]
 image: assets/images/2022-02-13-dating-and-disability.webp
 tags: [featured, dating, ableism, disability rights, emotional wellbeing, caregiver, accessibility, self-esteem, medical trauma, patient advocacy, inclusivity]
