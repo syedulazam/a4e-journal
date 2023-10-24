@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making Pride Accessible: An Essential Step towards Inclusivity"
-author: a4eorg
+author: Manasa
 categories: [ Pride, Inclusion, Accessibility, Rights, Advocacy, Technology ]
 image: assets/images/2021-06-25-making-pride-accessible.webp
 tags: [pride, disabled individuals, intersectionality, wheelchair accessibility, sign language, virtual events, captioning, screen readers, livestreams, inclusivity]
