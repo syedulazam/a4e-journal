@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alternative Texts and Image Descriptions: Importance and Best Practices"
-author: a4eorg
+author: Manasvi Baheti, Mallvika Baheti, Manasvi and Anushka  
 categories: [ Technology, Inclusion, Accessibility ]
 image: assets/images/2021-05-15-alternative-texts-and-image-descriptions.webp
 tags: [alternative texts, image descriptions, digital age, visual impairments, screen readers, sensory processing disorders, learning disabilities, accessibility, digital inclusivity, best practices]
