@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From My Lens: Pride and Autism"
-author: a4eorg
+author: Surinder
 categories: [ Pride, Inclusion, Diversity, Relationships, Advocacy, Rights ]
 image: assets/images/2021-06-21-pride-and-autism.webp
 tags: [autism, pride, intersectionality, queer, transgender, gender identity, sexuality, neurodivergent, asexuality, genetics]
