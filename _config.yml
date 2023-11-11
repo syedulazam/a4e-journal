@@ -19,6 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
+
     a4eorg:
       name:           A4Eorg
       site:           https://a4e.org.in
@@ -26,7 +27,63 @@ authors:
       bio:            "Access for Everyone is a global initiative dedicated to creating a more accessible and inclusive society."
       email:          info@a4e.org.in
       twitter:        https://twitter.com/a4eorg
- 
+      
+    Akshit Anchan:
+      name:           Akshit Anchan
+      site:           https://a4e.org.in
+      avatar:         'assets/images/avatar-a4eorg.png'
+      bio:            "Access for Everyone is a global initiative dedicated to creating a more accessible and inclusive society."
+      email:          info@a4e.org.in
+      twitter:        https://twitter.com/a4eorg
+
+     Tanvi Kalsi:
+      name:           Tanvi Kalsi
+      site:           https://a4e.org.in
+      avatar:         'assets/images/avatar-a4eorg.png'
+      bio:            "Access for Everyone is a global initiative dedicated to creating a more accessible and inclusive society."
+      email:          info@a4e.org.in
+      twitter:        https://twitter.com/a4eorg
+
+     Alicia Prax:
+      name:           Alicia Prax
+      site:           https://a4e.org.in
+      avatar:         'assets/images/avatar-a4eorg.png'
+      bio:            "Access for Everyone is a global initiative dedicated to creating a more accessible and inclusive society."
+      email:          info@a4e.org.in
+      twitter:        https://twitter.com/a4eorg
+
+     Manasa:
+      name:           Manasa
+      site:           https://a4e.org.in
+      avatar:         'assets/images/avatar-a4eorg.png'
+      bio:            "Access for Everyone is a global initiative dedicated to creating a more accessible and inclusive society."
+      email:          info@a4e.org.in
+      twitter:        https://twitter.com/a4eorg
+
+     Surinder:
+      name:           Surinder
+      site:           https://a4e.org.in
+      avatar:         'assets/images/avatar-a4eorg.png'
+      bio:            "Access for Everyone is a global initiative dedicated to creating a more accessible and inclusive society."
+      email:          info@a4e.org.in
+      twitter:        https://twitter.com/a4eorg
+
+    Malvika Baheti:
+      name:           Malvika Baheti
+      site:           https://a4e.org.in
+      avatar:         'assets/images/avatar-a4eorg.png'
+      bio:            "Access for Everyone is a global initiative dedicated to creating a more accessible and inclusive society."
+      email:          info@a4e.org.in
+      twitter:        https://twitter.com/a4eorg
+
+     Anushka:
+      name:           Anushka
+      site:           https://a4e.org.in
+      avatar:         'assets/images/avatar-a4eorg.png'
+      bio:            "Access for Everyone is a global initiative dedicated to creating a more accessible and inclusive society."
+      email:          info@a4e.org.in
+      twitter:        https://twitter.com/a4eorg
+      
 # Defaults
 defaults:
   - scope:
