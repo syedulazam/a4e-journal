@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Photosensitive Viewers and Flash Warnings: A Guide to Responsible Content Creation"
-author: a4eorg
+author: Manasvi Baheti, Mallvika Baheti, Manasvi and Anushka  
 categories: [ Technology, Inclusion, Health, Media ]
 image: assets/images/2021-05-19-photosensitive-viewers-and-flash-warnings.webp
 tags: [photosensitive, flash warnings, content creation, sensory tolerances, neurodivergent, digital content, social media trends, sensory overload, responsible posting, digital inclusion]
