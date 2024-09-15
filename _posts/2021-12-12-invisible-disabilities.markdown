@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding Invisible Disabilities: A Closer Look"
-author: a4eorg
+author: Tanvi Kalsi
 categories: [ Health, Disability, Mental Health, Chronic Conditions, Inclusivity, Diversity ]
 image: assets/images/2021-12-12-invisible-disabilities.webp
 tags: [invisible disabilities, hidden disabilities, chronic pain, epilepsy, adhd, cystic fibrosis, learning disabilities, traumatic brain injury, chronic fatigue syndrome, inclusivity]
